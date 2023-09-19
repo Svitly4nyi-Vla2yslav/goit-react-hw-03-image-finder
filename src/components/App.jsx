@@ -10,7 +10,7 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      React homework template
+      API_KEY = '38650686-211065fda926dbe73f41f5be1';
     </div>
   );
 };
